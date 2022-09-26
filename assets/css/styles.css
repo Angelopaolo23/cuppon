@@ -1,0 +1,11 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+body h2{
+    font-size: 19px;
+    font-weight: 500;
+}
+.card{
+    width: 100%;
+}
